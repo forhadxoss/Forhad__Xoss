@@ -20,8 +20,8 @@
   <img alt="Version" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Version&prefix=v&query=%24.version&url=https://github.com/mahmud-aura/Hinata-Bot-V3/raw/main/package.json&style=flat-square">
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=mahmud-aura/Hinata-Bot-V3">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-green?style=flat-square&color=brightgreen">
-  <a href="https://mahmud-exe.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-mahmud--exe.onrender.com-blue?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
+  <a href="https://mahmud-aura.is-a.dev">
+    <img src="https://img.shields.io/badge/Portfolio-mahmud--aura.is--a.dev-blue?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
@@ -75,7 +75,7 @@ Switch the bot's response language anytime in `config.json`.
 Hinata Bot V3 ships with a huge collection of free commands — and the list keeps growing. New commands are added and existing ones get updated day by day.
 
 <p align="center">
-  <a href="https://mahmud-exe.onrender.com/cmds" target="_blank">
+  <a href="https://mahmud-aura.is-a.dev/cmds" target="_blank">
     <img src="https://img.shields.io/badge/Browse%20Free%20Commands-25D366?style=for-the-badge&logo=googlechat&logoColor=white" alt="Free Commands">
   </a>
 </p>
@@ -120,7 +120,7 @@ New to bots? No problem. Watch the step-by-step video tutorial to get Hinata Bot
 Want to see more projects or hire the developer?
 
 <p align="center">
-  <a href="https://mahmud-exe.onrender.com/" target="_blank">
+  <a href="https://mahmud-aura.is-a.dev" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio">
   </a>
 </p>
@@ -143,7 +143,7 @@ Found a bug? Need a custom feature or a private Messenger bot built for you? Rea
   <a href="mailto:mahmudx007@gmail.com?subject=Hello%20MahMUD&body=Hi%20MahMUD!">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://mahmud-exe.onrender.com/" target="_blank">
+  <a href="https://mahmud-aura.is-a.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 </div>
@@ -152,13 +152,13 @@ Found a bug? Need a custom feature or a private Messenger bot built for you? Rea
 
 | Facebook | Youtube | WhatsApp | Portfolio | Gmail |
 | :---: | :---: | :---: | :---: | :---: |
-| <a href="https://www.facebook.com/mahmudexe"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg" width="200"/></a><p><b><a href="https://www.facebook.com/mahmudexe">MahMUD</a></b></p> | <a href="https://www.youtube.com/@mahmudx7"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg" width="200"/></a><p><b><a href="https://www.youtube.com/@mahmudx7">MahMUD</a></b></p> | <a href="https://wa.me/8801836298139"><img src="https://quickchart.io/qr?text=https%3A%2F%2Fwa.me%2F8801836298139&size=200&margin=1&dark=25D366&centerImageUrl=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F100%2Fwhatsapp--v1.png&centerImageSizeRatio=0.28" width="200"/></a><p><b><a href="https://wa.me/8801836298139">MahMUD</a></b></p> | <a href="https://mahmud-exe.onrender.com/"><img src="https://quickchart.io/qr?text=https%3A%2F%2Fmahmud-exe.onrender.com%2F&size=200&margin=1&dark=4285F4&centerImageUrl=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F100%2Fchrome--v1.png&centerImageSizeRatio=0.28" width="200"/></a><p><b><a href="https://mahmud-exe.onrender.com/">MahMUD</a></b></p> | <a href="mailto:mahmudx007@gmail.com"><img src="https://quickchart.io/qr?text=mailto%3Amahmudx007%40gmail.com&size=200&margin=1&dark=D14836&centerImageUrl=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F100%2Fgmail--v1.png&centerImageSizeRatio=0.28" width="200"/></a><p><b><a href="mailto:mahmudx007@gmail.com">MahMUD</a></b></p> |
+| <a href="https://www.facebook.com/mahmudexe"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg" width="200"/></a><p><b><a href="https://www.facebook.com/mahmudexe">MahMUD</a></b></p> | <a href="https://www.youtube.com/@mahmud-aura"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg" width="200"/></a><p><b><a href="https://www.youtube.com/@mahmud-aura">MahMUD</a></b></p> | <a href="https://wa.me/8801836298139"><img src="https://quickchart.io/qr?text=https%3A%2F%2Fwa.me%2F8801836298139&size=200&margin=1&dark=25D366&centerImageUrl=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F100%2Fwhatsapp--v1.png&centerImageSizeRatio=0.28" width="200"/></a><p><b><a href="https://wa.me/8801836298139">MahMUD</a></b></p> | <a href="https://mahmud-aura.is-a.dev"><img src="https://quickchart.io/qr?text=https%3A%2F%2Fmahmud-aura.is-a.dev%2F&size=200&margin=1&dark=4285F4&centerImageUrl=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F100%2Fchrome--v1.png&centerImageSizeRatio=0.28" width="200"/></a><p><b><a href="https://mahmud-aura.is-a.dev">MahMUD</a></b></p> | <a href="mailto:mahmudx007@gmail.com"><img src="https://quickchart.io/qr?text=mailto%3Amahmudx007%40gmail.com&size=200&margin=1&dark=D14836&centerImageUrl=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F100%2Fgmail--v1.png&centerImageSizeRatio=0.28" width="200"/></a><p><b><a href="mailto:mahmudx007@gmail.com">MahMUD</a></b></p> |
 
 ---
 
 ## Credits
 
-**Developer:** [MahMUD](https://mahmud-exe.onrender.com/)  
+**Developer:** [MahMUD](https://mahmud-aura.is-a.dev)  
 **Project:** Hinata-Bot-V3  
 **GitHub:** [github.com/mahmud-aura/Hinata-Bot-V3](https://github.com/mahmud-aura/Hinata-Bot-V3)
 
@@ -166,7 +166,7 @@ Found a bug? Need a custom feature or a private Messenger bot built for you? Rea
   <img src="https://i.imgur.com/UM3ekFf.jpeg" width="150px" style="border-radius: 50%;"/>
   <br>
   <b>MahMUD</b><br>
-  <a href="https://mahmud-exe.onrender.com/">mahmud-exe.onrender.com</a>
+  <a href="https://mahmud-aura.is-a.dev">mahmud-aura.is-a.dev</a>
 </p>
 
 ---
@@ -179,5 +179,5 @@ Found a bug? Need a custom feature or a private Messenger bot built for you? Rea
 
 <p align="center">
   <b>If this project helped you, please give it a star.</b><br><br>
-  © 2024 <a href="https://mahmud-exe.onrender.com/">Mahmud Official</a>. All Rights Reserved. | Licensed under <a href="LICENSE">MIT</a>
+  © 2024 <a href="https://mahmud-aura.is-a.dev">Mahmud Official</a>. All Rights Reserved. | Licensed under <a href="LICENSE">MIT</a>
 </p>
